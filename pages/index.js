@@ -52,7 +52,7 @@ export default function Home() {
         "title": "Edushare Website",
         "description": "React, Nodejs, Azure SQL",
         "imageSrc": "images/edushare.png", 
-        "url": "https://thekimsingh.github.io/edushare"
+        "url": "https://meek-klepon-a4eeb9.netlify.app/"
     },
     
     {
